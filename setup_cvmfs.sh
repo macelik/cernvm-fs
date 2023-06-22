@@ -40,4 +40,4 @@ cvmfs_config setup
 cvmfs_config probe data.galaxyproject.org
 
 # Change directory to /cvmfs/data.galaxyproject.org/
-cd /cvmfs/data.galaxyproject.org/
+
